@@ -68,4 +68,4 @@ The parent project main has these scripts we can use:
 They just piggyback off the installs, starts, and builds of the children projects. Simple but effective.
 
 
-**Note** I'm well aware that node-sass-chokidar causes for some thrashing when compiling. I've tried debugging for a few hours and I'm pretty sure it's a node-sass library issue. Hopefully, this will be fixed with time.
+**Note** I'm well aware that node-sass-chokidar causes for some thrashing when compiling. I've tried debugging for a few hours and I'm pretty sure it's a node-sass library issue. Hopefully, this will be fixed with time. Also, as much as I love sass, I'm thinking of switching to another preprocessor
